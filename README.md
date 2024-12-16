@@ -40,11 +40,12 @@ Fails to meet most of the criteria.
 Meets some criteria (e.g., includes letters and digits).3.Strong:
 Meets all criteria (length >= 8, includes uppercase and lowercase letters, digits, and special characters).
 
-Future Enhancements
-Copy to Clipboard: Add functionality to copy the generated password.
-Password History: Maintain a history of generated passwords (optional).
-Additional Strength Metrics: Use advanced algorithms to evaluate strength based on entropy.
-Modern UI Themes: Implement advanced styling with ttk themes.
+Future Enhancements:
+
+1.Copy to Clipboard: Add functionality to copy the generated password.
+2.Password History: Maintain a history of generated passwords (optional).
+3.Additional Strength Metrics: Use advanced algorithms to evaluate strength based on entropy.
+4.Modern UI Themes: Implement advanced styling with ttk themes.
 
 Contact
 
